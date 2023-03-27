@@ -11,5 +11,7 @@
 
 ```sh
  npm install && npm run dev
-
-```
+  OR
+yarn add && yarn run dev
+ 
+ ```
